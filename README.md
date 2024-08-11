@@ -39,8 +39,8 @@ A back-end API for a notes application built with Node.js and Hapi.js. This API 
    npm run dev
 
 5. **For production, start the server with:**
-    ```bash
-    npm start
+   ```bash
+   npm start
 The server will be running on http://localhost:3000.
 
 ## API Endpoints
