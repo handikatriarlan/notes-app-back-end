@@ -51,7 +51,7 @@ The server will be running on http://localhost:3000.
 - DELETE /notes/{id}: Delete a specific note by ID.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT LICENSE](LICENSE).
 
 ## Acknowledgements
 - Node.js
